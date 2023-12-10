@@ -1,0 +1,4 @@
+a = imput("first number:")
+b = imput("first number:")
+c = loat(a) + float(b)
+print(c)
