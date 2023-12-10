@@ -1,4 +1,4 @@
-a = imput("1st number:")
-b = imput("2nd number:")
-c = loat(a) + float(b)
+a=float(input("1st number:"))
+b=float(input("2nd number:"))
+c=a+b
 print(c)
