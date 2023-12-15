@@ -5,8 +5,8 @@ def print_clock(minutes, seconds):
     time.sleep(1)  
     print_clock(minutes, seconds)  
   
-minutes = int(input("请输入分钟数："))  
-seconds = int(input("请输入秒数："))  
+minutes = int(input("print sce："))  
+seconds = int(input("print min："))  
   
 print("开始计时！")  
 print_clock(minutes, seconds)  
